@@ -15,8 +15,11 @@ function App() {
         <meta name="description" content="Hello There Good Morning" />
         <meta property="og:url" content="https://react-medata.vercel.app/" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Title Content" />
-        <meta property="og:description" content="Hello There" />
+        <meta property="og:title" content="React App MetaData" />
+        <meta
+          property="og:description"
+          content="Hello There how are you today"
+        />
         <meta
           property="og:image"
           content="https://opengraph.b-cdn.net/production/documents/45bca4ba-2d02-4f5e-94aa-6f64fcf78926.jpg?token=AMWIPvDviWvP90KyvJ1wG0o5HFVrMcV3_FLg-i23iqo&height=675&width=1200&expires=33240196487"
@@ -28,8 +31,11 @@ function App() {
           property="twitter:url"
           content="https://react-medata.vercel.app/"
         />
-        <meta name="twitter:title" content="Title Content" />
-        <meta name="twitter:description" content="Hello There" />
+        <meta name="twitter:title" content="React App MetaData" />
+        <meta
+          name="twitter:description"
+          content="Hello There how are you today"
+        />
         <meta
           name="twitter:image"
           content="https://opengraph.b-cdn.net/production/documents/45bca4ba-2d02-4f5e-94aa-6f64fcf78926.jpg?token=AMWIPvDviWvP90KyvJ1wG0o5HFVrMcV3_FLg-i23iqo&height=675&width=1200&expires=33240196487"
